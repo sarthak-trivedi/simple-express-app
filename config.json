@@ -1,0 +1,5 @@
+{
+    "MONGO_URI": "mongodb://localhost:27017/notes",
+    "API_ENDPOINT": "https://greet.free.beeceptor.com/"
+  }
+  
